@@ -7,6 +7,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-12 | Kamal Khatwani | Building AgentCloud to date, at rebuild cost (breakdown below) | 14,000 | provisional | |
+| 2 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #7: Sign in with Google, for any app deployed on AgentCloud | 27 | provisional | https://github.com/topc-social/agentcloud-tasks/issues/7 |
+| 3 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #7: Sign in with Google, for any app deployed on AgentCloud | 2,673 | provisional | https://github.com/kamal0808/agentcloud/pull/2 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2.1, 2026-10-12)
 
