@@ -13,6 +13,8 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 5 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #8: AgentCloud runs apps on Cloudflare, not on the owner's machine | 3,960 | provisional | https://github.com/kamal0808/agentcloud/pull/3 |
 | 6 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #9: AgentCloud login service confirms UPI payments from bank SMS | 40 | provisional | https://github.com/topc-social/agentcloud-tasks/issues/9 |
 | 7 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #9: AgentCloud login service confirms UPI payments from bank SMS | 3,960 | provisional | https://github.com/kamal0808/agentcloud/pull/3 |
+| 8 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #10: Payment webhook accepts the SMS as raw text, form or JSON | 18 | provisional | https://github.com/topc-social/agentcloud-tasks/issues/10 |
+| 9 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #10: Payment webhook accepts the SMS as raw text, form or JSON | 1,782 | provisional | https://github.com/topc-social/agentcloud-tasks/issues/10 |
 
 ## Row 1 breakdown (rebuild cost, rate card v2.1, 2026-10-12)
 
